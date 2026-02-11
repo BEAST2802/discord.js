@@ -80,7 +80,7 @@
 		"eslint-formatter-pretty": "^7.0.0",
 		"prettier": "^3.7.4",
 		"prop-types": "^15.8.1",
-		"storybook": "^10.1.6",
+		"storybook": "^10.1.10",
 		"turbo": "^2.6.3",
 		"typescript": "~5.9.3",
 		"unocss": "^66.5.10",
