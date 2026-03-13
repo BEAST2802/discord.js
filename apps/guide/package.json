@@ -48,7 +48,7 @@
 	"homepage": "https://discord.js.org",
 	"funding": "https://github.com/discordjs/discord.js?sponsor",
 	"dependencies": {
-		"@opennextjs/cloudflare": "^1.16.5",
+		"@opennextjs/cloudflare": "^1.17.1",
 		"@vercel/analytics": "^1.6.1",
 		"fumadocs-core": "^16.6.3",
 		"fumadocs-mdx": "^14.2.7",
